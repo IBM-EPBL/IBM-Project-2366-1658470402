@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D2",1,"Red LED"
+"R1, R2, R6",3,"100 Ω Resistor"
+"PIR1",1," PIR Sensor"
+"D3",1,"Orange LED"
+"PIEZO1",1," Piezo"
+"R3",1," Photoresistor"
+"GAS1",1," Gas Sensor"
+"R5",1,"1 kΩ Resistor"
