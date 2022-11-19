@@ -1,5 +1,5 @@
- IBM-Project-2366-1658470402
-Signs with Smart Connectivity for Better Road Safety
+ IBM-Project-2366-1658470402,
+"Signs with Smart Connectivity for Better Road Safety"
 To replace the static signboards, smart connected sign boards are used.
 These smart connected sign boards get the speed limitations from a web app using weather API and update automatically.
 Based on the weather changes the speed may increase or decrease.
